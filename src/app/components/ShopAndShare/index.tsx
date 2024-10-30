@@ -12,7 +12,7 @@ const ShopAndShare = () => {
         <h2>
           <span>Shop & Share any product get paid same day on sales</span>
         </h2>
-        <span>Look for the badge</span>
+        <span className={styles.lookFor}>- Look for the badge -</span>
       </span>
       <div className={styles.imageContainer}>
         <Image
